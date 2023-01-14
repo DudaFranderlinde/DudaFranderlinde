@@ -10,11 +10,6 @@
 
 ⚡ Hobbies: Livros, Filmes e Música...
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/DudaFranderlinde">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafranderlinde&layout=compact&langs_count=7&theme=material-palenight"/>
-</div>
-
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Duda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
