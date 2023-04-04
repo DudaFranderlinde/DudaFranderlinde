@@ -6,7 +6,7 @@
 
 💻 Cursando formação Desenvolvedor FullStack - Turma DEVinHouse[Intelbras] - até abril/23
 
-🌱 Interesse em iniciar graduação em Ciências da Computação em 2023
+🌱 Graduando em Análise e Desenvolvimento de Sistemas
 
 ⚡ Hobbies: Livros, Filmes e Música...
 
