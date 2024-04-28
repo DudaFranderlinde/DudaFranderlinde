@@ -1,7 +1,5 @@
 ## Oi! Eu sou a Eduarda Garcia Franderlinde👋
 
-🔭 Estou em busca da minha primeira experiência profissional na área de Tecnologia.
-
 👯 Formada no Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas.
 
 💻 Cursando formação Desenvolvedor FullStack - Turma DEVinHouse[Intelbras] - até abril/23
